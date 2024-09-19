@@ -11,5 +11,5 @@
 [7 wonders of the world] (https://www.sevencorners.com/blog/travel-destinations/the-seven-wonders-of-the-world)
 [Food around the world] (https://www.zicasso.com/a/ac/food/cultures)
 # Experiments
-:laughing:
-:relieved:
+😆
+😌
